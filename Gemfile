@@ -15,7 +15,7 @@ gem "sqlite3", ">= 1.4"
 gem "puma", ">= 5.0"
 
 # Bundle and transpile JavaScript [https://github.com/rails/jsbundling-rails]
-gem "shakapacker", "= 8.2"
+gem "shakapacker", "9.5.0"
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
